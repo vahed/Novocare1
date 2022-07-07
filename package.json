@@ -28,6 +28,6 @@
     "dependencies": {
         "fullcalendar": "^3.10.0",
         "fullcalendar-scheduler": "^1.9.4",
-        "moment": "^2.24.0"
+        "moment": "^2.29.4"
     }
 }
